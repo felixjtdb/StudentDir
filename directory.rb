@@ -1,5 +1,5 @@
-puts "The students of Villains Academy"
-puts "-------------"
+puts "The students of Villains Academy" # Give the header then follow with a 
+puts "-------------"                    # list of the students
 puts "Dr. Hannibal Lecter"
 puts "Darth Vader"
 puts "Nurse Ratched"
@@ -11,3 +11,7 @@ puts "Freddy Krueger"
 puts "The Joker"
 puts "Joffrey Baratheon"
 puts "Norman Bates"
+
+print "\nOverall, we have "
+print 11
+puts " great students"
